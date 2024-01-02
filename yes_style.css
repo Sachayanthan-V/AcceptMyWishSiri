@@ -21,3 +21,19 @@ body {
     justify-content: center;
     align-items: center;
 }
+
+.centerit {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+p, h3 {
+    color: white;
+    text-align: center;
+    width: 70%;
+}
+
+p span, h3 span {
+    text-transform: uppercase;
+}

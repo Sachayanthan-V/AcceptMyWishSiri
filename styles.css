@@ -93,3 +93,9 @@ body {
         font-size: 14px;
     }
 }
+
+div h3 {
+    display: flex;
+    text-wrap: wrap;
+    color: white;
+}
