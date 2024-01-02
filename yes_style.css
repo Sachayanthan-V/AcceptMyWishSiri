@@ -32,6 +32,9 @@ p, h3 {
     color: white;
     text-align: center;
     width: 70%;
+    padding: 5px 10px;
+    background-color: rgb(136, 0, 255);
+    border-radius: 5px;
 }
 
 p span, h3 span {
